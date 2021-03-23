@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<OldCategory>
+  <Senior4 num = "11">60</Senior4>
+  <Senior3 num = "10">50</Senior3>
+  <Senior2 num = "9">40</Senior2>
+  <Senior1 num = "8">30</Senior1>
+  <Grown num = "7">21</Grown>
+  <Youth2 num = "6">19</Youth2>
+  <Youth num = "5">16</Youth>
+  <Junior2 num = "4">14</Junior2>
+  <Junior num = "3">12</Junior>
+  <Children2 num = "2">10</Children2>
+  <Children1 num = "1"></Children1>
+</OldCategory>
